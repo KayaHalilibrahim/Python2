@@ -5,7 +5,7 @@ website = "https://halilibrahimkaya.net"
 
 result = courseName.strip()
 
-# 2. Convert all characters in the variable 'kursAdı' to lowercase letters
+# 2. Convert all characters in the variable 'courseName' to lowercase letters
 
 result = courseName.lower()
 print(result)
